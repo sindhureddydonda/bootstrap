@@ -1,0 +1,25 @@
+:root {
+    --magenta-950: #580028; 
+    --magenta-900: #8F0C4A;
+    --magenta-800: #AD0755;
+    --magenta-700: #D10568;
+    --primary-font: "Roboto", sans-serif;
+    --bold: 1000;
+  }
+  
+  body{
+    font-family: var(--primary-font);
+  }
+  /* I DONT HAVE BUTTON STYLE */
+  
+  
+  .gradidant-my-button {
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  }
+  .bold-my-text
+  
+  {
+    font-weight:var(--bold);
+    
+  }
